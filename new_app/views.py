@@ -2,4 +2,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def my_view(request):
-    return HttpResponse('Hello there123')
+    return HttpResponse('Hello there')
